@@ -1,0 +1,85 @@
+@media(min-width:700px){
+body{background: white;
+}
+}
+.container {
+    position: relative;
+}   
+    
+.item{ position: absolute;
+ }
+#item_0 {
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 967px;
+    background-color: #FFB6C1
+    
+    } 
+
+    .texto1 {
+        position: relative;
+        } 
+        .item{ position: absolute;
+        }
+        #item_1{
+        left: 0px;
+        top: 0px;
+        width: 100%;
+        height: 73px;
+        background-color: #FFC0CB
+        
+        } 
+
+        .meugatinho {
+            position: relative;
+            } .item{ position: absolute;
+            }
+            #item_2 {
+            left: 850px;
+            top: 0px;
+            font-size: 30px;
+            width: 255px;
+            font-family: "Inter";
+            color: rgba(0, 0, 0, 1);
+            } 
+
+            .gatinho2{
+                position: relative;
+                } .item{ position: absolute;
+                }
+                #gatinho3 {
+                left: 650px;
+                top: 100px;
+                width: 600px;
+                height: 300px;
+                } 
+                .titulo1 {
+                    position: relative;
+                    } .item{ position: absolute;
+                    }
+                    #titulo1 {
+                    left: 850px;
+                    top: 400px;
+                    font-size: 40px;
+                    width: 147px;
+                    font-family: "Inter";
+                    color: rgba(0, 0, 0, 1);
+                    
+                    } 
+                    .paragrafo1{
+                        position: relative;
+                        } .item{ position: absolute;
+                        }
+                        #paragrafo1 {
+                        left: 0px;
+                        top: 0px;
+                        font-size: 30px;
+                        width: 454px;
+                        font-family: "Inter";
+                        color: rgba(0, 0, 0, 1);
+                        } 
+                    
+            
+
+
